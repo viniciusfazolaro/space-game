@@ -11,7 +11,7 @@ Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a
 Bem-vindo ao Space Poggers, um emocionante desafio espacial onde você pilota uma nave e deve desviar habilmente dos asteroides que se aproximam. Quanto mais asteroides você desviar, maior será a sua pontuação!
 
 ## Tecnologias Utilizadas
-JavaScript: Linguagem principal.
+JavaScript: Linguagem principal. <br>
 HTML/CSS: Estrutura e estilização.
 
 ## Como executar o jogo
@@ -77,7 +77,7 @@ Welcome to Space Poggers, a thrilling space challenge where you pilot a spaceshi
 [Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro) <br>
 
 ## Technologies Used
-JavaScript: Primary language.
+JavaScript: Primary language. <br>
 HTML/CSS: Structure and styling.
 
 ## How to Run the Game
