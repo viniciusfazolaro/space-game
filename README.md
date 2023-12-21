@@ -41,7 +41,7 @@ Opção 2:
 2. Desvie dos Asteroides:
    - Use as setas direcionais ← → ou as teclas A e D para manobrar sua nave e evitar colidir com os asteroides.
 
-3.Ganhe Pontos:
+3. Ganhe Pontos:
    - Cada asteroide evitado aumenta sua pontuação. Desafie-se a superar seus recordes anteriores.
    
 4. Game Over:
