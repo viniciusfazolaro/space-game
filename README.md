@@ -3,9 +3,9 @@ Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a
 
 ## Desenvolvedores
 
-[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira)
-[Victor Hugo Benetti](https://github.com/vicbenetti)
-[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro)
+[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira) <br>
+[Victor Hugo Benetti](https://github.com/vicbenetti) <br>
+[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro) <br>
 
 ## Descrição
 Bem-vindo ao Space Poggers, um emocionante desafio espacial onde você pilota uma nave e deve desviar habilmente dos asteroides que se aproximam. Quanto mais asteroides você desviar, maior será a sua pontuação!
@@ -72,9 +72,9 @@ Welcome to Space Poggers, a thrilling space challenge where you pilot a spaceshi
 
 ## Developers
 
-[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira)
-[Victor Hugo Benetti](https://github.com/vicbenetti)
-[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro)
+[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira) <br>
+[Victor Hugo Benetti](https://github.com/vicbenetti) <br>
+[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro) <br>
 
 ## Technologies Used
 JavaScript: Primary language.
