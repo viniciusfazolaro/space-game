@@ -1,6 +1,12 @@
 # Space Poggers 🚀💥 < PT-BR >
 Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a objetos e utilizando a estrutura de dados TAD fila.
 
+## Desenvolvedores
+
+[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira)
+[Victor Hugo Benetti](https://github.com/vicbenetti)
+[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro)
+
 ## Descrição
 Bem-vindo ao Space Poggers, um emocionante desafio espacial onde você pilota uma nave e deve desviar habilmente dos asteroides que se aproximam. Quanto mais asteroides você desviar, maior será a sua pontuação!
 
@@ -12,7 +18,7 @@ HTML/CSS: Estrutura e estilização.
 
 ### Clone o repositório
 
-```git clone https://github.com/viniciusfazolaro/space-game```
+`git clone https://github.com/viniciusfazolaro/space-game`
 
 ### Instale o Live Server
 
@@ -27,11 +33,11 @@ Opção 2:
   
 - Instale o live server
 
-```npm install -g live-server```
+`npm install -g live-server`
 
 - No terminal, vá até o diretório que você clonou o repositório e inicie o servidor local
 
-```live-server```
+`live-server`
 
 ## Como jogar
 
@@ -64,6 +70,12 @@ An exciting JavaScript game developed collaboratively, following object-oriented
 ## Description
 Welcome to Space Poggers, a thrilling space challenge where you pilot a spaceship and must skillfully dodge incoming asteroids. The more asteroids you avoid, the higher your score!
 
+## Developers
+
+[Joana Elias de Oliveira](https://github.com/joana-elias-oliveira)
+[Victor Hugo Benetti](https://github.com/vicbenetti)
+[Vinícius Fazolaro Silva](https://github.com/viniciusfazolaro)
+
 ## Technologies Used
 JavaScript: Primary language.
 HTML/CSS: Structure and styling.
@@ -72,7 +84,7 @@ HTML/CSS: Structure and styling.
 
 ### Clone the Repository
 
-```git clone https://github.com/viniciusfazolaro/space-game```
+`git clone https://github.com/viniciusfazolaro/space-game`
 
 ### Install Live Server
 
@@ -86,11 +98,11 @@ Option 2:
 - Install [Node.js](https://nodejs.org/en)
 - Install Live Server:
 
-```npm install -g live-server```
+`npm install -g live-server`
 
 - In the terminal, navigate to the project directory and start the local server
 
-```live-server```
+`live-server`
 
 ## How to Play
 
