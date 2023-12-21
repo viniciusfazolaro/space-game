@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    color: white;
+}
+  
+canvas {
+display: block;
+}
+
+audio {
+    display: none;
+}
