@@ -77,9 +77,12 @@ HTML/CSS: Structure and styling.
 ### Install Live Server
 
 Option 1:
+
 - Install the Live Server extension in VSCode.
 - Click on "Go Live" with the index.html page open.
+
 Option 2:
+
 - Install [Node.js](https://nodejs.org/en)
 - Install Live Server:
 
