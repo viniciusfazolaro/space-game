@@ -97,7 +97,7 @@ Option 2:
 2. Dodge the Asteroids:
    - Use the arrow keys ← → or the A and D keys to maneuver your spaceship and avoid colliding with asteroids.
 
-3.Earn Points:
+3. Earn Points:
    - Each avoided asteroid increases your score. Challenge yourself to surpass your previous records.
    
 4. Game Over:
