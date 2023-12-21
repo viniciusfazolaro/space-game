@@ -1,4 +1,4 @@
-# Space Poggers 🚀💥 <PT-BR>
+# Space Poggers 🚀💥 < PT-BR >
 Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a objetos e utilizando a estrutura de dados TAD fila.
 
 ## Descrição
@@ -58,7 +58,7 @@ Opção 2:
 
 Que a força esteja com você 🌌🎮
 
-# Space Poggers 🚀💥 <EN>
+# Space Poggers 🚀💥 < EN >
 An exciting JavaScript game developed collaboratively, following object-oriented principles, and utilizing the Queue ADT data structure.
 
 ## Description
