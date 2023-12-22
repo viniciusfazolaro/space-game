@@ -1,7 +1,7 @@
 # Space Poggers 🚀💥 < PT-BR >
 Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a objetos e utilizando a estrutura de dados TAD fila.
 
-![image](https://github.com/viniciusfazolaro/space-game/assets/140013851/4df6d5cd-94ae-40e0-a43c-d0b48dfe2812)
+![image](https://github.com/viniciusfazolaro/space-game/assets/140013851/1b9e4f57-a078-4df3-b94a-bf17c9a913cd)
 
 ## Desenvolvedores
 
