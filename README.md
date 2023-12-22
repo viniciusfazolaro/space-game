@@ -1,6 +1,8 @@
 # Space Poggers 🚀💥 < PT-BR >
 Jogo em JavaScript desenvolvido em grupo, seguindo princípios de orientação a objetos e utilizando a estrutura de dados TAD fila.
 
+![image](https://github.com/viniciusfazolaro/space-game/assets/140013851/4df6d5cd-94ae-40e0-a43c-d0b48dfe2812)
+
 ## Desenvolvedores
 
 [Joana Elias de Oliveira](https://github.com/joana-elias-oliveira) <br>
@@ -24,7 +26,7 @@ HTML/CSS: Estrutura e estilização.
 
 Opção 1:
 
-- Instale a extensão Live Server no VSCode
+- Instale a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VSCode
 - Clique em "Go Live" com a página index.html aberta
 
 Opção 2:
@@ -90,7 +92,7 @@ HTML/CSS: Structure and styling.
 
 Option 1:
 
-- Install the Live Server extension in VSCode.
+- Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VSCode.
 - Click on "Go Live" with the index.html page open.
 
 Option 2:
