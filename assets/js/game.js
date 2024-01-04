@@ -1,23 +1,3 @@
-/* Implementar (NÃO APAGAR!!!)
-
--- arrumar --
-
--- feito --
-Implementar o game over
-Implementar o score
-Gerador de asteroides de tamanho variável
-Gerador de asteroides de velocidade variável, de acordo com a dificuldade
-Conforme a dificuldade aumentar a velocidade dos asteroides aumenta e gera asteroides maiores
-arrumar bug velocidade dos asteroides
-dificuldade do jogo
-Implementar a fila nova
-Implementar a função para o jogo ficar mais difícil conforme o score/tempo aumenta
-bug hitbox da nave
-bug hitbox dos asteroides
-
-Se voces acharem alguma coisa pra arrumar coloca ai em cima :)
-*/
-
 // importa os objetos do jogo
 import { Spaceship } from './class/Spaceship.js';
 import { Asteroid } from './class/Asteroid.js';
