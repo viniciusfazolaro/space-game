@@ -20,7 +20,9 @@ HTML/CSS: Estrutura e estilização.
 
 ### Clone o repositório
 
-`git clone https://github.com/viniciusfazolaro/space-game`
+ ```bash
+  git clone https://github.com/viniciusfazolaro/space-game
+  ```
 
 ### Instale o Live Server
 
@@ -35,11 +37,15 @@ Opção 2:
   
 - Instale o live server
 
-`npm install -g live-server`
+ ```bash
+  npm install -g live-server
+  ```
 
 - No terminal, vá até o diretório que você clonou o repositório e inicie o servidor local
 
-`live-server`
+ ```bash
+  live-server
+  ```
 
 ## Como jogar
 
@@ -86,7 +92,9 @@ HTML/CSS: Structure and styling.
 
 ### Clone the Repository
 
-`git clone https://github.com/viniciusfazolaro/space-game`
+ ```bash
+  git clone https://github.com/viniciusfazolaro/space-game
+  ```
 
 ### Install Live Server
 
@@ -100,11 +108,15 @@ Option 2:
 - Install [Node.js](https://nodejs.org/en)
 - Install Live Server:
 
-`npm install -g live-server`
+ ```bash
+  npm install -g live-server
+  ```
 
 - In the terminal, navigate to the project directory and start the local server
 
-`live-server`
+ ```bash
+  live-server
+  ```
 
 ## How to Play
 
